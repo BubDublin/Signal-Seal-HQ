@@ -1,4 +1,4 @@
-# LOOP INDEX (0–25)
+# LOOP INDEX (0–100)
 
 This is the master reference of all loop files, including titles, sections, tags, and summary lines.  
 Used for sorting, viewing, and restoring narrative order in the archive.
