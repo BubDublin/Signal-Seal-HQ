@@ -1,6 +1,3 @@
-
-
-
 # BOOK 3 – THE CIRCLE CONTACT PHASE
 
 This is the moment the world stopped being quiet.
